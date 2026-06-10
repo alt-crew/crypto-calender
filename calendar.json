@@ -1,0 +1,29 @@
+{
+  "month": "2026-06",
+  "events": [
+    {
+      "title": "US CPI",
+      "utc_time": "2026-06-10T12:30:00Z",
+      "impact": "high",
+      "type": "macro"
+    },
+    {
+      "title": "US PPI",
+      "utc_time": "2026-06-11T12:30:00Z",
+      "impact": "medium",
+      "type": "macro"
+    },
+    {
+      "title": "Japan Rate",
+      "utc_time": "2026-06-16T03:00:00Z",
+      "impact": "high",
+      "type": "macro"
+    },
+    {
+      "title": "FOMC Meeting",
+      "utc_time": "2026-06-17T18:00:00Z",
+      "impact": "high",
+      "type": "macro"
+    }
+  ]
+}
