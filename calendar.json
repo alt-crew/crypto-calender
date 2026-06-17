@@ -30,6 +30,12 @@
       "utc_time": "2026-06-17T18:30:00Z",
       "impact": "high",
       "type": "macro"
+    },
+    {
+      "title": "US PCE",
+      "utc_time": "2026-06-25T12:30:00Z",
+      "impact": "low",
+      "type": "macro"
     }
   ]
 }
