@@ -1,39 +1,39 @@
 {
-  "month": "2026-06",
+  "month": "2026-07",
   "events": [
     {
+      "title": "Non Farm Payroll",
+      "utc_time": "2026-07-02T12:30:00Z",
+      "impact": "high",
+      "type": "macro"
+    },
+    {
+      "title": "Unemployment Rate",
+      "utc_time": "2026-07-02T12:30:00Z",
+      "impact": "high",
+      "type": "macro"
+    },
+    {
+      "title": "FOMC Minutes",
+      "utc_time": "2026-07-09T18:00:00Z",
+      "impact": "high",
+      "type": "macro"
+    },
+    {
       "title": "US CPI",
-      "utc_time": "2026-06-10T12:30:00Z",
+      "utc_time": "2026-07-14T12:30:00Z",
       "impact": "high",
       "type": "macro"
     },
     {
       "title": "US PPI",
-      "utc_time": "2026-06-11T12:30:00Z",
+      "utc_time": "2026-07-15T12:30:00Z",
       "impact": "medium",
       "type": "macro"
     },
     {
-      "title": "Japan Rate",
-      "utc_time": "2026-06-16T03:00:00Z",
-      "impact": "high",
-      "type": "macro"
-    },
-    {
-      "title": "FOMC Meeting",
-      "utc_time": "2026-06-17T18:00:00Z",
-      "impact": "high",
-      "type": "macro"
-    },
-    {
-      "title": "Fed Press Conference",
-      "utc_time": "2026-06-17T18:30:00Z",
-      "impact": "high",
-      "type": "macro"
-    },
-    {
       "title": "US PCE",
-      "utc_time": "2026-06-25T12:30:00Z",
+      "utc_time": "2026-07-25T12:30:00Z",
       "impact": "low",
       "type": "macro"
     }
