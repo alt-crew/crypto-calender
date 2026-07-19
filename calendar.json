@@ -32,8 +32,14 @@
       "type": "macro"
     },
     {
+      "title": "FED Meeting",
+      "utc_time": "2026-07-29T18:00:00Z",
+      "impact": "High",
+      "type": "macro"
+    },
+    {
       "title": "US PCE",
-      "utc_time": "2026-07-25T12:30:00Z",
+      "utc_time": "2026-07-30T12:30:00Z",
       "impact": "low",
       "type": "macro"
     }
