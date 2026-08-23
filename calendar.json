@@ -34,7 +34,7 @@
     {
       "title": "US PCE",
       "utc_time": "2026-08-26T12:30:00Z",
-      "impact": "low",
+      "impact": "medium",
       "type": "macro"
     }
   ]
