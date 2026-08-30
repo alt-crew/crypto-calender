@@ -1,39 +1,39 @@
 {
-  "month": "2026-08",
+  "month": "2026-09",
   "events": [
     {
       "title": "Non Farm Payroll",
-      "utc_time": "2026-08-07T12:30:00Z",
+      "utc_time": "2026-09-04T12:30:00Z",
       "impact": "high",
       "type": "macro"
     },
     {
       "title": "Unemployment Rate",
-      "utc_time": "2026-08-07T12:30:00Z",
-      "impact": "high",
-      "type": "macro"
-    },
-    {
-      "title": "US CPI",
-      "utc_time": "2026-08-12T12:30:00Z",
+      "utc_time": "2026-09-04T12:30:00Z",
       "impact": "high",
       "type": "macro"
     },
     {
       "title": "US PPI",
-      "utc_time": "2026-08-13T12:30:00Z",
+      "utc_time": "2026-09-10T12:30:00Z",
       "impact": "medium",
       "type": "macro"
     },
     {
-      "title": "FOMC Minutes",
-      "utc_time": "2026-08-19T18:00:00Z",
-      "impact": "low",
+      "title": "US CPI",
+      "utc_time": "2026-09-11T12:30:00Z",
+      "impact": "high",
+      "type": "macro"
+    },
+    {
+      "title": "FOMC Rate Decision",
+      "utc_time": "2026-09-16T18:00:00Z",
+      "impact": "high",
       "type": "macro"
     },
     {
       "title": "US PCE",
-      "utc_time": "2026-08-26T12:30:00Z",
+      "utc_time": "2026-09-30T12:30:00Z",
       "impact": "medium",
       "type": "macro"
     }
