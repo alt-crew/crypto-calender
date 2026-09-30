@@ -1,45 +1,39 @@
 {
-  "month": "2026-09",
+  "month": "2026-10",
   "events": [
     {
-      "title": "Non Farm Payroll",
-      "utc_time": "2026-09-04T12:30:00Z",
+      "title": "Non‑Farm Payrolls",
+      "utc_time": "2026-10-02T12:30:00Z",
       "impact": "high",
       "type": "macro"
     },
     {
       "title": "Unemployment Rate",
-      "utc_time": "2026-09-04T12:30:00Z",
+      "utc_time": "2026-10-02T12:30:00Z",
       "impact": "high",
       "type": "macro"
     },
     {
-      "title": "US PPI",
-      "utc_time": "2026-09-10T12:30:00Z",
+      "title": "US PPI (Producer Price Index)",
+      "utc_time": "2026-10-09T12:30:00Z",
       "impact": "medium",
       "type": "macro"
     },
     {
-      "title": "US CPI",
-      "utc_time": "2026-09-11T12:30:00Z",
+      "title": "US CPI (Consumer Price Index)",
+      "utc_time": "2026-10-13T12:30:00Z",
       "impact": "high",
       "type": "macro"
-    },
-    {
-      "title": "Crypto Clarity Act Voting",
-      "utc_time": "2026-09-15T18:15:00Z",
-      "impact": "high",
-      "type": "regulatory"
     },
     {
       "title": "FOMC Rate Decision",
-      "utc_time": "2026-09-16T18:00:00Z",
+      "utc_time": "2026-10-14T18:00:00Z",
       "impact": "high",
       "type": "macro"
     },
     {
-      "title": "US PCE",
-      "utc_time": "2026-09-30T12:30:00Z",
+      "title": "US PCE (Personal Consumption Expenditures) Index",
+      "utc_time": "2026-10-30T12:30:00Z",
       "impact": "medium",
       "type": "macro"
     }
