@@ -15,7 +15,7 @@
     },
     {
       "title": "US PPI (Producer Price Index)",
-      "utc_time": "2026-10-09T12:30:00Z",
+      "utc_time": "2026-10-15T13:30:00Z",
       "impact": "medium",
       "type": "macro"
     },
@@ -27,13 +27,19 @@
     },
     {
       "title": "FOMC Rate Decision",
-      "utc_time": "2026-10-14T18:00:00Z",
+      "utc_time": "2026-10-28T18:00:00Z",
       "impact": "high",
       "type": "macro"
     },
     {
+      "title": "FOMC Minutes",
+      "utc_time": "2026-10-05T17:30:00Z",
+      "impact": "medium",
+      "type": "macro"
+    },
+    {
       "title": "US PCE (Personal Consumption Expenditures) Index",
-      "utc_time": "2026-10-30T12:30:00Z",
+      "utc_time": "2026-10-30T13:30:00Z",
       "impact": "medium",
       "type": "macro"
     }
